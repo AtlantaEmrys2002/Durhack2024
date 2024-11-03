@@ -12,7 +12,7 @@ This concept can be extended to all types of sky - at the moment, clouds (sunny)
 
 ## Theme of Exploration
 
-This project has allowed me to learn tensorflow and extend my knowledge of deep learning. It has also introduced me to streamlit, one of my new favourite technologies! :-) 
+This project has allowed me to learn tensorflow and extend my knowledge of deep learning. It has also introduced me to streamlit (I had never heard of it till I got the MLH email earlier this week), one of my new favourite technologies! :-) 
 
 ## Running this yourself
 
@@ -48,6 +48,8 @@ Please note that this app was built on a Mac-OS based computer.
 Nuttida Lapthanachai. 
 
 [Tutorial on Building CNN Deep Learning Models](https://medium.com/@sssspppp/image-classification-using-cnn-0fad8367acfd)
+
+[Streamlit App Framework](https://streamlit.io/) - used the file uploader and framework to build the front end of the application.
 
 
 #### References
