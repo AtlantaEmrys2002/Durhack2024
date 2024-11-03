@@ -27,7 +27,7 @@ Firstly, you need to install all the relevant tools using pip:
 `pip install opencv-python` \
 `pip install numpy` \
 `pip install matplotlib` \
-`pip install kagglehub` \
+`pip install kagglehub`
 
 ### Building and Training the Deep Learning Model
 
